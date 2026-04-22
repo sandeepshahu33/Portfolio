@@ -691,7 +691,7 @@ nav .fas {
 
 }
 
-@media (max-width:400px) {
+@media (max-width:450px) {
     .img-div {
         visibility: hidden;
     }
